@@ -78,4 +78,4 @@ Keep individual files under 10 MB and prefer well under 1 MB for anything embedd
 
 ## Legacy root files
 
-`acumon-logo.png` and `akambofg_logo.jpeg` also remain at the repo root because existing document templates reference those URLs. New assets go in the folders above. Do not add more files at the root.
+`acumon-logo.png` also remains at the repo root because existing document templates reference that URL. New assets go in the folders above. Do not add more files at the root.
